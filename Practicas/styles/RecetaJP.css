@@ -1,0 +1,61 @@
+﻿body {
+}
+
+section {
+    height: 421px;
+    width: 595px;
+}
+
+.fondoColor{
+    background-image: url('../assets/img/logoJPOp.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 40%;
+}
+
+.contenedor-imagenes {
+    text-align:center;
+}
+
+.contenedor_receta {
+    height: 250px;
+    margin-right: 10pt;
+    font-family: Arial;
+    font-style: italic;
+    text-align: right;
+}
+
+.contenedor-pie{
+    vertical-align:bottom;
+    text-align:center;
+    font-family:Arial;
+    font-style:italic;
+    font-size:small;
+}
+
+hr {
+    height: 2pt;
+    width: 595px;
+    position: absolute;
+    border-width: 0;
+    color: #6B68FF;
+    background-color: #363582;
+}
+
+.imageUNAM {
+    margin-left: 10pt;
+    float: left;
+    width: 50pt;
+}
+
+.imageIzta {
+    margin-right: 10pt;
+    float: right;
+    vertical-align: text-bottom;
+    width: 70pt;
+}
+
+.NombreDr{
+    font-family:'Brush Script MT';
+    font-size:x-large;
+}
